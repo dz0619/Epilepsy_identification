@@ -1,6 +1,6 @@
-# Epilepsy Identification System
+# Epilepsy Identification
 
-A deep learning-based EEG epilepsy seizure detection system using CNN, LSTM, and CNN-LSTM hybrid models for binary classification tasks.
+This repository provides example code for epilepsy recognition based on the paper “Flexible Multimodal Intracranial Sensing System for Brain Injury Monitoring”.
 
 ## Project Structure
 
